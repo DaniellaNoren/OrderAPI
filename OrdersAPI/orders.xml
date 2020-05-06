@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfOrder xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Order OrderNumber="17890">
+    <OrderDate>2014-01-25</OrderDate>
+    <OrderLines>
+      <OrderLine OrderLineNumber="0001">
+        <Product ProductNumber="123451324A">
+          <Name>X-Wing Starfighter</Name>
+          <Description>Super awesome starfighter</Description>
+          <Price>99.99</Price>
+          <ProductGroup>Star Wars</ProductGroup>
+        </Product>
+        <Quantity>1</Quantity>
+        <TotalPrice>0</TotalPrice>
+      </OrderLine>
+      <OrderLine OrderLineNumber="0002">
+        <Product ProductNumber="4000-AAA">
+          <Name>3x2 Red piece</Name>
+          <Description />
+          <Price>0.15</Price>
+          <ProductGroup>2014-01-25</ProductGroup>
+        </Product>
+        <Quantity>2</Quantity>
+        <TotalPrice>0.3</TotalPrice>
+      </OrderLine>
+      <OrderLine OrderLineNumber="0003">
+        <Product ProductNumber="4000-BAA">
+          <Name>3x2 Blue piece</Name>
+          <Description />
+          <Price>0.15</Price>
+          <ProductGroup>2014-01-25</ProductGroup>
+        </Product>
+        <Quantity>2</Quantity>
+        <TotalPrice>0.3</TotalPrice>
+      </OrderLine>
+      <OrderLine OrderLineNumber="0004">
+        <Product ProductNumber="4000-CAA">
+          <Name>2x2 Red piece</Name>
+          <Description />
+          <Price>0.1</Price>
+          <ProductGroup>2014-01-25</ProductGroup>
+        </Product>
+        <Quantity>8</Quantity>
+        <TotalPrice>0.8</TotalPrice>
+      </OrderLine>
+    </OrderLines>
+    <Customer CustomerNumber="737268">
+      <CustomerName>Daniel Johansson</CustomerName>
+    </Customer>
+  </Order>
+  <Order OrderNumber="17835">
+    <OrderDate>2014-07-05</OrderDate>
+    <OrderLines>
+      <OrderLine OrderLineNumber="0001">
+        <Product ProductNumber="123-100">
+          <Name>Little Guys</Name>
+          <Description>Small Guys</Description>
+          <Price>0.99</Price>
+          <ProductGroup>Normal</ProductGroup>
+        </Product>
+        <Quantity>75</Quantity>
+        <TotalPrice>0</TotalPrice>
+      </OrderLine>
+      <OrderLine OrderLineNumber="0002">
+        <Product ProductNumber="5000-AAA">
+          <Name>1x1 Red Piece</Name>
+          <Description />
+          <Price>0.05</Price>
+          <ProductGroup>2014-07-05</ProductGroup>
+        </Product>
+        <Quantity>1</Quantity>
+        <TotalPrice>0.05</TotalPrice>
+      </OrderLine>
+      <OrderLine OrderLineNumber="0003">
+        <Product ProductNumber="5000-AAB">
+          <Name>1x1 Blue Piece</Name>
+          <Description />
+          <Price>0.05</Price>
+          <ProductGroup>2014-07-05</ProductGroup>
+        </Product>
+        <Quantity>1</Quantity>
+        <TotalPrice>0.05</TotalPrice>
+      </OrderLine>
+      <OrderLine OrderLineNumber="0004">
+        <Product ProductNumber="5000-AAC">
+          <Name>1x1 Yellow Piece</Name>
+          <Description />
+          <Price>0.05</Price>
+          <ProductGroup>2014-07-05</ProductGroup>
+        </Product>
+        <Quantity>1</Quantity>
+        <TotalPrice>0.05</TotalPrice>
+      </OrderLine>
+      <OrderLine OrderLineNumber="0005">
+        <Product ProductNumber="5000-AAD">
+          <Name>1x1 Green Piece</Name>
+          <Description />
+          <Price>0.05</Price>
+          <ProductGroup>2014-07-05</ProductGroup>
+        </Product>
+        <Quantity>1</Quantity>
+        <TotalPrice>0.05</TotalPrice>
+      </OrderLine>
+    </OrderLines>
+    <Customer CustomerNumber="265849">
+      <CustomerName>Kalle Svensson</CustomerName>
+    </Customer>
+  </Order>
+  <Order OrderNumber="17642">
+    <OrderDate>2013-05-10</OrderDate>
+    <OrderLines>
+      <OrderLine OrderLineNumber="0001">
+        <Product ProductNumber="2000-19">
+          <Name>Small house</Name>
+          <Description>A normal small house</Description>
+          <Price>5.99</Price>
+          <ProductGroup>Normal</ProductGroup>
+        </Product>
+        <Quantity>1</Quantity>
+        <TotalPrice>0</TotalPrice>
+      </OrderLine>
+      <OrderLine OrderLineNumber="0002">
+        <Product ProductNumber="1000-1">
+          <Name>Green trees</Name>
+          <Description>Green pine trees</Description>
+          <Price>1.99</Price>
+          <ProductGroup>2013-05-10</ProductGroup>
+        </Product>
+        <Quantity>2</Quantity>
+        <TotalPrice>3.98</TotalPrice>
+      </OrderLine>
+      <OrderLine OrderLineNumber="0003">
+        <Product ProductNumber="1000-2">
+          <Name>Green trees (Big)</Name>
+          <Description>Big green pine trees</Description>
+          <Price>2.99</Price>
+          <ProductGroup>2013-05-10</ProductGroup>
+        </Product>
+        <Quantity>5</Quantity>
+        <TotalPrice>14.950000000000001</TotalPrice>
+      </OrderLine>
+      <OrderLine OrderLineNumber="0004">
+        <Product ProductNumber="A145">
+          <Name>Fish</Name>
+          <Description>Small fish</Description>
+          <Price>0.5</Price>
+          <ProductGroup>2013-05-10</ProductGroup>
+        </Product>
+        <Quantity>5</Quantity>
+        <TotalPrice>2.5</TotalPrice>
+      </OrderLine>
+      <OrderLine OrderLineNumber="0005">
+        <Product ProductNumber="A167">
+          <Name>Road</Name>
+          <Description>Road piece</Description>
+          <Price>0.99</Price>
+          <ProductGroup>2013-05-10</ProductGroup>
+        </Product>
+        <Quantity>3</Quantity>
+        <TotalPrice>2.9699999999999998</TotalPrice>
+      </OrderLine>
+    </OrderLines>
+    <Customer CustomerNumber="658254">
+      <CustomerName>Per Andersson</CustomerName>
+    </Customer>
+  </Order>
+</ArrayOfOrder>
